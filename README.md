@@ -6,3 +6,5 @@
 
 # I am teaching ICT312.
 
+# I am teaching on Tuesdays and Wednesdays.
+
